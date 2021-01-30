@@ -1,0 +1,58 @@
+/* #reduceImg {
+  width: 40em;
+  height: 36em;
+} */
+#hirebtn {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: green;
+}
+#flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#flex .card {
+  margin-bottom: 5%;
+}
+.card-body a {
+  border: 2px solid green;
+  font-size: 1em;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding: 4px;
+}
+
+.card-body a:hover {
+  border: black;
+  color: green;
+}
+.card-title {
+  color: green;
+}
+#mytitle {
+  font-size: 20px;
+}
+.heading-area,
+.paragraph {
+  color: green;
+}
+.sub-title {
+  margin-top: 10%;
+}
+#contact-title {
+  margin-top: 20%;
+}
+#head {
+  margin-top: 10%;
+}
+#content {
+  margin-left: 10%;
+}
+#container #wrapper {
+  margin-left: 15%;
+}
+#add {
+  margin-top: 15%;
+}
